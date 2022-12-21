@@ -1,0 +1,59 @@
+input {
+ color: white;
+}
+.input-group
+{
+  display:flex; 
+}
+.input--style-2
+{
+  color: burlywood;
+}
+div .V
+{
+ display:block;
+ margin-left:auto;
+  margin-right:auto;
+ background-color:;
+
+}
+.Vv
+{
+
+ height:170px;
+ width:340px;
+ background-color:black;
+ border-radius:30px; 
+}
+#deo
+{
+  margin-top:5px;
+  border-radius:40px;
+}
+.movie-card
+{
+  margin-left:50px ;
+  width:360px;
+  height:160px;
+ 
+}
+.movies-grid
+{
+  margin-left:-70px;
+}
+#cc1
+{
+  margin-left:300px;
+}
+#cc2
+{
+  margin-left:550px;
+}
+#S2
+{
+  margin-top:160px;
+}
+#category
+{
+  margin-top:160px;
+}
